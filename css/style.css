@@ -1,0 +1,49 @@
+body {
+    background-color: #1b1f27;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+h2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+h4 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+}
+
+h5 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+}
+
+p {
+    padding: 40px;
+    font-size: 16px;
+    color: white;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px; 
+}
